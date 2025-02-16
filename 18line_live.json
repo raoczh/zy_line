@@ -101,7 +101,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/jar/xyqxbpq.jar",
+      "jar": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/jar/xyqxbpq.jar",
       "style": {
         "ratio": 1.7
       },
@@ -181,110 +181,110 @@
       "key": "dr_地瓜视频",
       "name": "🔞地瓜视频",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/地瓜视频[密].js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/地瓜视频[密].js"
     },
     {
       "key": "dr_29片库",
       "name": "🔞29片库",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/29片库[密].js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/29片库[密].js"
     },
     {
       "key": "dr_九妖仓库",
       "name": "🔞九妖仓库",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/九妖仓库[密].js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/九妖仓库[密].js"
     },
     {
       "key": "hipy_js_爱爱影院[密]",
       "name": "🔞爱爱影院",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
-      "jar": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/jar/pg.jar",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "jar": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/爱爱影院[密].js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/爱爱影院[密].js"
     },
     {
       "key": "hipy_js_地瓜视频[密]",
       "name": "🔞地瓜视频",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
-      "jar": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/jar/pg.jar",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "jar": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/地瓜视频[密].js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/地瓜视频[密].js"
     },
     {
       "key": "hipy_js_黑料不打烊-z",
       "name": "🔞黑料不打烊-z",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/黑料不打烊-z.js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/黑料不打烊-z.js"
     },
     {
       "key": "hipy_js_绿色仓库[密]",
       "name": "🔞绿色仓库",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/绿色仓库[密].js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/绿色仓库[密].js"
     },
     {
       "key": "hipy_js_小女18[密]",
       "name": "🔞小女18",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/小女18[密].js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/小女18[密].js"
     },
     {
       "key": "hipy_js_一点视频[密]",
       "name": "🔞一点视频",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/一点视频[密].js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/一点视频[密].js"
     },
     {
       "key": "hipy_js_UAA[密]",
       "name": "🔞UAA",
       "type": 3,
-      "api": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://fastly.delivr.net/gh/raoczh/testbookt3@t3/drpy_js/UAA[密].js"
+      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/UAA[密].js"
     }
   ],
   "parses": [
