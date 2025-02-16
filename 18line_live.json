@@ -42,15 +42,6 @@
       "filterable": 0
     },
     {
-      "key": "zp123",
-      "name": "🔞色猫资源（慢）",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "💞大地资源💞",
       "name": "💞大地资源💞",
       "type": 0,
@@ -67,15 +58,6 @@
       "quickSearch": 0
     },
     {
-      "key": "api.maozyapi.com",
-      "name": "猫资源",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "💞白嫖资源💞",
       "name": "💞白嫖资源💞",
       "type": 0,
@@ -88,36 +70,6 @@
       "name": "黄AV资源",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "麻豆",
-      "name": "👊【撸到出血為止！】👊",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "jar": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/jar/xyqxbpq.jar",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": {
-        "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "分类": "日本视频$1#麻豆视频$2",
-        "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-        "直接播放": "1"
-      }
-    },
-    {
-      "key": "🐮牛牛资源",
-      "name": "🔞牛牛资源",
-      "type": 0,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
-      "playUrl": "https://jiexi.niuniuzy.org/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -145,271 +97,10 @@
       "jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"
     },
     {
-      "key": "csp_xBPQ_产",
-      "name": "🔞香蕉国产",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉国产.json",
-      "jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"
-    },
-    {
-      "key": "csp_xBPQ_搜索",
-      "name": "🔞香蕉搜索",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉搜索.json",
-      "jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"
-    },
-    {
-      "key": "csp_xBPQ源",
-      "name": "🔞香蕉资源",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉资源.json",
-      "jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"
-    },
-    {
-      "key": "dr_地瓜视频",
-      "name": "🔞地瓜视频",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/地瓜视频[密].js"
-    },
-    {
-      "key": "dr_29片库",
-      "name": "🔞29片库",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/29片库[密].js"
-    },
-    {
-      "key": "dr_九妖仓库",
-      "name": "🔞九妖仓库",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/九妖仓库[密].js"
-    },
-    {
-      "key": "hipy_js_爱爱影院[密]",
-      "name": "🔞爱爱影院",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "jar": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/jar/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/爱爱影院[密].js"
-    },
-    {
-      "key": "hipy_js_地瓜视频[密]",
-      "name": "🔞地瓜视频",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "jar": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/jar/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/地瓜视频[密].js"
-    },
-    {
-      "key": "hipy_js_黑料不打烊-z",
-      "name": "🔞黑料不打烊-z",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/黑料不打烊-z.js"
-    },
-    {
-      "key": "hipy_js_绿色仓库[密]",
-      "name": "🔞绿色仓库",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/绿色仓库[密].js"
-    },
-    {
-      "key": "hipy_js_小女18[密]",
-      "name": "🔞小女18",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/小女18[密].js"
-    },
-    {
-      "key": "hipy_js_一点视频[密]",
-      "name": "🔞一点视频",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/一点视频[密].js"
-    },
-    {
-      "key": "hipy_js_UAA[密]",
-      "name": "🔞UAA",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/testbookt3@t3/drpy_js/UAA[密].js"
-    },
-    {
-      "key": "csp_XYQHiker_777影院",
-      "name": "🔞777影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://fastly.jsdelivr.net/gh/raoczh/yg@main/h/777影院.json",
-      "jar": "https://fastly.jsdelivr.net/gh/raoczh/yg@main/jar/xyqxbpq.jar"
-    },
-    {
-      "key": "csp_顶级网曝",
-      "name": "🔞顶级网曝",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://fastly.jsdelivr.net/gh/raoczh/yg@main/jar/xyqxbpq.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "请求头": "手机",
-        "站名": "顶级网曝",
-        "主页url": "https://www.djwb3.top/",
-        "数组": "<li class=\"content-item\">&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "播放数组": "<td>&&</td>",
-        "播放链接": "href=\"&&\"",
-        "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
-        "免嗅": "0",
-        "搜索url": "https://www.djwb3.top/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "嗅探词": ".m3u8#.mp4",
-        "分类url": "https://www.djwb3.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类数组": "<li&&</li>",
-        "分类标题": "href=\"/index.php/vod/type/id/*.html\"target=\"_blank\">&&</a>",
-        "分类ID": "/index.php/vod/type/id/&&.html"
-      }
-    },
-    {
-      "key": "✨R撸巴✨",
-      "name": "🔞R撸吧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://fastly.jsdelivr.net/gh/raoczh/yg@main/jar/hl.jar",
-      "filterable": 1,
-      "ext": {
-        "数组": "img-box cover-md\"&&<p class=\"sub-title\">",
-        "标题": ">&&</a></h6>",
-        "图片": "data-src=\"&&\"",
-        "副标题": "✨多看少撸✨",
-        "链接": "href=\"&&\"",
-        "分类url": "https://www.rluba-mod.sbs/index.php/vodtype/{cateId}-{catePg}.html;;z",
-        "分类": "卡通动漫$49#无码中文$34#强奸中文$35#巨乳中文$36#乱伦中文$37#制服中文$38#人妻中文$39#调教中文$40#出轨中文$41#中文字幕$59#欧美性爱$29#性爱音乐视频-PMV$93#人兽$30#人妖$31#MomsTeachSex$95#男同$32#女同$33#FakeTaxi$83#Barzzers$87#WowGirls$117#FamilyStrokes$116#骑兵有码$27#步兵无码$28#制服师生$50#强奸乱伦$51#人妻熟女$53#三级剧情$55#丝袜美腿$56#亚洲情色$58#麻豆视频$161#91制片厂$162#天美传媒$163#蜜桃传媒$164#皇家华人$165#星空传媒$166#精东影业$167#大象传媒$168#91茄子$169#性视界传媒$170#兔子先生$171#杏吧原创$172#香蕉传媒$174#SA国际传媒$175#EDmosaic$176#PsychoPorn$177#糖心Vlog$178#葫芦影业$179#果冻传媒$180#国产精品$10#精品三级$11#主播大秀$12#抖阴视频$13#国模私拍$14#颜射瞬间$15#女神学生$16#美熟少妇$17#娇妻素人$18#空姐模特$19#国产乱伦$20#专题$26#自慰群交$21#野合车震$22#职场同事$23#国产名人$24#网曝门事件$25#偷拍自拍$57#北京天使$119"
-      }
-    },
-    {
-      "key": "semaozy.com",
-      "name": "🔞色猫(FQ)",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php"
-    },
-    {
-      "key": "www.caoliuzyw.com",
-      "name": "🔞草榴",
-      "type": 1,
-      "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
-      "key": "jingpinx.com",
-      "name": "🔞精品",
-      "type": 1,
-      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
       "key": "didizy.com",
       "name": "🔞滴滴",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
-      "key": "avre.club",
-      "name": "🔞黄瓜",
-      "type": 1,
-      "api": "https://www.avre06.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "recordable": 0,
@@ -537,15 +228,6 @@
       }
     },
     {
-      "key": "鲨鱼资源",
-      "name": "🔞鲨鱼资源",
-      "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 1
-    },
-    {
       "key": "155专场",
       "name": "🔞155采集",
       "type": 1,
@@ -582,44 +264,10 @@
       ]
     },
     {
-      "key": "aosikazy.com",
-      "name": "🔞奥斯卡资源",
-      "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
       "key": "www.siwazyw.tv",
       "name": "🔞丝袜资源",
       "type": 1,
       "api": "https://www.siwazyw.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
-      "key": "jkunzyapi.com",
-      "name": "🔞鸡坤资源",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "recordable": 0,
@@ -709,44 +357,12 @@
       "quickSearch": 1
     },
     {
-      "key": "易看资源",
-      "name": "🔞易看资源",
-      "type": 1,
-      "api": "http://api.yikanapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "湿乐园",
       "name": "🔞湿乐园",
       "type": 1,
       "api": "https://xxavs.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "葡萄",
-      "name": "🔞采集.葡萄资源",
-      "type": 1,
-      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
-      "searchable": 1
-    },
-    {
-      "key": "apilj.com",
-      "name": "🔞辣椒資源",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "http://apilj.com/api.php/provide/vod/at/json/",
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
     }
   ],
   "parses": [
